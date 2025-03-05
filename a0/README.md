@@ -1,5 +1,5 @@
 ### ECE 5545: Machine Learning Hardware and Systems
-
+## Testing Edit and Commit
 # Assignment 0: Know Your Design Tools
 
 `"Give me six hours to chop down a tree and I will spend the first four sharpening the axe." -- Abraham Lincoln`
